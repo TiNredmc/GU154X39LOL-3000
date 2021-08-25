@@ -9,7 +9,7 @@
 9. x1 LM9022 / LM4871MX SOP-8
 10. x1 MC34063AD SOP-8
 11. x1 MN15439A VFD Display from Sony CDX GT700D
-12. x1 180R 0805 resistor
+12. x2 180R 0805 resistor (one is replace the 22R)
 13. x1 1K 0805 resistor
 14. x1 47K 0805 resistor
 15. x1 STM8S001J3 SOP-8 
