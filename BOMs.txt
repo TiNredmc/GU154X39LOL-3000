@@ -1,0 +1,15 @@
+1. x1 AMS1117 3v3 
+2. x1 1nF 0603 Capacitor 16v
+3. x3 100nF 1206 Capacitor 50v 
+4. x1 1uF 0603 Capacitor 16v
+5. x4 10uF 0605 Capacitor 16v 
+6. x2 1N5819 SOT123 diode 
+7. x1 2x5 Male Pin header
+8. x1 330uH 1210 Inductor
+9. x1 LM9022 / LM4871MX SOP-8
+10. x1 MC34063AD SOP-8
+11. x1 MN15439A VFD Display from Sony CDX GT700D
+12. x1 180R 0805 resistor
+13. x1 1K 0805 resistor
+14. x1 47K 0805 resistor
+15. x1 STM8S001J3 SOP-8 
